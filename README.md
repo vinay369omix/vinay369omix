@@ -19,7 +19,7 @@
 
 - 🔭 Founder of **Omix Studios** — independent Windows & Android app studio
 - 💼 System Engineer at **Value Point Systems**, Bengaluru
-- 🖥️ Published **PC Smart Utility** on Microsoft Store — 800+ organic downloads
+- 🖥️ Published **PC Smart Utility** on Microsoft Store — 1000+ organic downloads
 - 📱 Published **IPO Master Guide** on Google Play Store
 - 🔧 Currently building **Printer Manager**, **Tiger House** & **House Manager**
 - 📍 Based in **Bengaluru, India**
@@ -41,7 +41,7 @@
 - 📄 PDF & Excel Report Export — full system report in seconds
 
 📅 **Launched: April 14, 2026**
-📥 **800+ organic downloads — zero paid marketing**
+📥 **1000+ organic downloads across 101+ countries — zero paid marketing**
 🔗 [Download on Microsoft Store](https://apps.microsoft.com/detail/9NW5DMR2XQ36)
 
 ---
