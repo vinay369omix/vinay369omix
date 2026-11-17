@@ -11,6 +11,12 @@
   <a href="https://play.google.com/store/apps/details?id=ipo.master">
     <img src="https://img.shields.io/badge/Google%20Play-IPO%20Master%20Guide-green?style=flat&logo=google-play" />
   </a>
+  <a href="https://apps.microsoft.com/search?query=PC%20Smart%20Utility%20Pro">
+    <img src="https://img.shields.io/badge/Microsoft%20Store-PC%20Smart%20Utility%20Pro-0078D4?style=flat&logo=microsoft" />
+  </a>
+  <a href="https://apps.microsoft.com/detail/9N13CM8F1XP1">
+    <img src="https://img.shields.io/badge/Microsoft%20Store-GTEEAA%20CITY%206-ff4d1f?style=flat&logo=microsoft" />
+  </a>
 </p>
 
 ---
@@ -43,6 +49,20 @@
 📅 **Launched: April 14, 2026**
 📥 **1000+ organic downloads across 127+ countries — zero paid marketing**
 🔗 [Download on Microsoft Store](https://apps.microsoft.com/detail/9NW5DMR2XQ36)
+
+---
+
+### 🖥️ PC Smart Utility Pro — Windows
+> Premium PC utility with additional tools for users who want more control over their Windows system.
+
+🔗 [Find PC Smart Utility Pro on Microsoft Store](https://apps.microsoft.com/search?query=PC%20Smart%20Utility%20Pro)
+
+---
+
+### 🎮 GTEEAA CITY 6 — Windows
+> Original 3D open-world action game from OMIX STUDIOS, featuring story missions, driving, combat, boats, helicopters and an original city.
+
+🔗 [View GTEEAA CITY 6 on Microsoft Store](https://apps.microsoft.com/detail/9N13CM8F1XP1)
 
 ---
 
@@ -101,6 +121,8 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vinaykumarvr)
 - 🖥️ [PC Smart Utility — Microsoft Store](https://apps.microsoft.com/detail/9NW5DMR2XQ36)
+- 🖥️ [PC Smart Utility Pro — Microsoft Store](https://apps.microsoft.com/search?query=PC%20Smart%20Utility%20Pro)
+- 🎮 [GTEEAA CITY 6 — Microsoft Store](https://apps.microsoft.com/detail/9N13CM8F1XP1)
 - 📱 [IPO Master Guide — Google Play](https://play.google.com/store/apps/details?id=ipo.master)
 - 📧 vinaykumarvr39@gmail.com
 
