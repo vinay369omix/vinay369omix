@@ -11,7 +11,7 @@
   <a href="https://play.google.com/store/apps/details?id=ipo.master">
     <img src="https://img.shields.io/badge/Google%20Play-IPO%20Master%20Guide-green?style=flat&logo=google-play" />
   </a>
-  <a href="https://apps.microsoft.com/search?query=PC%20Smart%20Utility%20Pro">
+  <a href="https://apps.microsoft.com/detail/9PKJFZ33T13P">
     <img src="https://img.shields.io/badge/Microsoft%20Store-PC%20Smart%20Utility%20Pro-0078D4?style=flat&logo=microsoft" />
   </a>
   <a href="https://apps.microsoft.com/detail/9N13CM8F1XP1">
@@ -55,7 +55,7 @@
 ### 🖥️ PC Smart Utility Pro — Windows
 > Premium PC utility with additional tools for users who want more control over their Windows system.
 
-🔗 [Find PC Smart Utility Pro on Microsoft Store](https://apps.microsoft.com/search?query=PC%20Smart%20Utility%20Pro)
+🔗 [Find PC Smart Utility Pro on Microsoft Store](https://apps.microsoft.com/detail/9PKJFZ33T13P)
 
 ---
 
@@ -121,7 +121,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vinaykumarvr)
 - 🖥️ [PC Smart Utility — Microsoft Store](https://apps.microsoft.com/detail/9NW5DMR2XQ36)
-- 🖥️ [PC Smart Utility Pro — Microsoft Store](https://apps.microsoft.com/search?query=PC%20Smart%20Utility%20Pro)
+- 🖥️ [PC Smart Utility Pro — Microsoft Store](https://apps.microsoft.com/detail/9PKJFZ33T13P)
 - 🎮 [GTEEAA CITY 6 — Microsoft Store](https://apps.microsoft.com/detail/9N13CM8F1XP1)
 - 📱 [IPO Master Guide — Google Play](https://play.google.com/store/apps/details?id=ipo.master)
 - 📧 vinaykumarvr39@gmail.com
